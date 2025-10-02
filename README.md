@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # couples_daily_q
 
 A new Flutter project.
