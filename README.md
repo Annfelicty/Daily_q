@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # couples_daily_q
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Daily_q
+AI access end
+>>>>>>> 87187fd0ece4d95910e3f8f6002e59aa1d84761f
